@@ -1,6 +1,5 @@
 package week02;
 
-import java.util.logging.SocketHandler;
 
 public class ArithmeticOperator {
     public static void main(String[] args) {
@@ -21,5 +20,7 @@ public class ArithmeticOperator {
 
         //Mod Alma Operatörü
         System.out.println("C % B = " + (number3 % number2));
+
+        System.out.println();
     }
 }
