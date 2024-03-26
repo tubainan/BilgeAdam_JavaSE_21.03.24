@@ -17,6 +17,3 @@ public class StaticVsNonStatic {
         return a+b;
     }
 }
-//Girilen bi tam sayının karesini alan bir method oluşturalım . bu method nonstatic olsub . daha sonra kullanıcıdan
-// 2 adet saAYI isteyelim. bu sayılardan küçük olan sayıkardan başlayarak büyük olan sayıya kladar aradaki bütün sayıların
-//karesinin methodunu alalım ve yazdıralım
