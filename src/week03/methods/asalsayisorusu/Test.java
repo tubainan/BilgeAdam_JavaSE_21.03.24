@@ -17,7 +17,7 @@ public class Test {
 
         /*PrimeNumberCalculator sınıfının parametreli bir nesnesini/instance'ını üretiyorum*/
         PrimeNumberCalculator primeNumberCalculatorWithArg = new PrimeNumberCalculator(5000001557l);//Sayıyı parametre kısmına, argüman olarak verdim.
-        PrimeNumberCalculator primeNumberCalculatorWithArg = new PrimeNumberCalculator(number);//Sayıyı parametre kısmına, argüman olarak verdim.
+       // PrimeNumberCalculator primeNumberCalculatorWithArg = new PrimeNumberCalculator(number);//Sayıyı parametre kısmına, argüman olarak verdim.
 
         long startTime = System.nanoTime();
         if(primeNumberCalculatorWithArg.asalSayiMiOptimize()){
