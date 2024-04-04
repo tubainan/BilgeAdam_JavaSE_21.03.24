@@ -1,4 +1,4 @@
-package week04.collections.linkedlist;
+package week04.collections.list.linkedlist;
 
 import java.util.LinkedList;
 import java.util.Queue;

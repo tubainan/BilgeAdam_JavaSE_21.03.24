@@ -1,4 +1,4 @@
-package week04.collections.map;
+package week04.collections.map.hashmap;
 
 import java.lang.management.ManagementPermission;
 import java.util.ArrayList;
