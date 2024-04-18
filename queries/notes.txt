@@ -1,0 +1,3 @@
+Bir tablo nasıl oluşturulur
+   1-database'i aç (postgres)
+   2-Schemas

@@ -1,0 +1,9 @@
+CREATE TABLE cars (
+	--Bu bir yorum satırıdır
+	/*
+	Bu bir yorum bloğudur
+	*/
+   brand VARCHAR(255),
+   model VARCHAR(255),
+   year INT
+);
