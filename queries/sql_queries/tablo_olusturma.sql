@@ -1,4 +1,4 @@
-CREATE TABLE cars (
+CREATE TABLE cars (    -- tbl_car diye de yazılır
 	--Bu bir yorum satırıdır 
 	/*
 	Bu bir yorum bloğudur

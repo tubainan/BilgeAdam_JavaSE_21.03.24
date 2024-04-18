@@ -1,3 +1,26 @@
-Bir tablo nasıl oluşturulur
-   1-database'i aç (postgres)
-   2-Schemas
+ Bir tablo nasıl görüntülenir:
+        1 - database'i aç (postgres)
+        2 - Schemas'ı aç
+        3 - Tables'ı aç
+        4 - Görüntülemek istediğim tablo burada görünmeli.
+            4.1 - Tabloyu açmak ve içeriğine erişmek için;
+                ->> Tabloya sağ click, View/Edit Data -> All Rows
+
+VERİ TABANI NOTLARI:
+
+Ek Not:
+- Anahtar kısımlar büyük harfle yazılması önerilir.
+- Tablo isimleri 's' tagı ile kullanılır.(cars)
+- Sorgu sonu ; ile biter
+- VARCHAR burada String demektir
+
+Sorgu Açma:
+1 - Tools -> queryTool + enter
+
+Tablo Açma:
+postgres -> schemas -> Tables
+oluşturduğun tabloyu açma : ( Yöntem 1 ) Tables -> Oluşturduğun tablo ismine sağ tıkla + view/edit + AllRows + enter
+                            ( Yöntem 2 ) Oluşturulan tablo üstüne tıkla. Üstte Object explorer şeridinde (AllRows) butonuna tıkla
+
+ tablo içi veri işlemleri query:
+ Tables paketine sağ tık + Query tool
